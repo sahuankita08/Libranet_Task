@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Book",
+        "item_id": 1,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "page_count": 450,
+        "is_available": true
+    },
+    {
+        "type": "Book",
+        "item_id": 2,
+        "title": "The Pragmatic Programmer",
+        "author": "Andy Hunt",
+        "page_count": 320,
+        "is_available": true
+    },
+    {
+        "type": "EMagazine",
+        "item_id": 3,
+        "title": "Tech Monthly",
+        "author": "Editorial Team",
+        "issue_number": 42,
+        "is_available": true
+    },
+    {
+        "type": "Audiobook",
+        "item_id": 4,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "duration": 6.5,
+        "is_available": true
+    },
+    {
+        "type": "Audiobook",
+        "item_id": 5,
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "duration": 10,
+        "is_available": true
+    }
+]
